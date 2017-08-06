@@ -1,5 +1,5 @@
 body {
-    background-color: yellow
+    background-color: white
 }
 button {
     color: red
@@ -8,12 +8,14 @@ button {
     text-align: center;
 }
 
-.button {
-    position: absolute;
-    top: 50%;
+button {
+    margin: auto;
+    display: block
 }
-.button
-    {
-    height:200px;
-    width:200px;
+img {
+    height:300px;
+    width:400px;
+}
+h1 {
+    color: rebeccapurple;
 }
