@@ -18,9 +18,19 @@ img {
 }
 h1 {
     color: rebeccapurple;
-    display: none
+    display: none;
+    font-family: 'Sedgwick Ave', cursive !important;
 }
 
 form {
     display: none;
+}
+#exampleInputEmail3 {
+    background-color: lightyellow
+}
+#exampleInputPassword3 {
+    background-color: lightyellow
+}
+.checkbox {
+    background-color: greenyellow
 }
