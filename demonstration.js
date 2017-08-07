@@ -10,3 +10,12 @@ function yourFunction() {
         x.style.display = 'none';
     }
 }
+
+function ourFunction() {
+    var x = document.getElementById('my');
+    if (x.style.display === 'none') {
+        x.style.display = 'block';
+    } else {
+        x.style.display = 'none';
+    }
+}

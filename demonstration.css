@@ -18,6 +18,7 @@ img {
 }
 h1 {
     color: rebeccapurple;
+    display: none
 }
 
 form {
