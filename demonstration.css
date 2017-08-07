@@ -19,3 +19,7 @@ img {
 h1 {
     color: rebeccapurple;
 }
+
+form {
+    display: none;
+}
